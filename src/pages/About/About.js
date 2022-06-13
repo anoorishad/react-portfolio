@@ -1,9 +1,15 @@
 import React from 'react';
+import Headshot from '../../assets/Andrew Noorishad Head Shot cropped.jpeg'
+import './About.css'
 
 export default function About() {
+  const headShot = {
+    image: Headshot
+}
   return (
-    <div>
-      <h1>About Page</h1>
+    <div className='bodyStyle'>
+      <h1>About</h1>
+      <img className='headShot' src={headShot.image} alt='head shot'/>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
         Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed

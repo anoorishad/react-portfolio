@@ -18,7 +18,7 @@ export default function Resume() {
 
 
     return (
-        <div className="container bodyStyle">
+        <div className="bodyStyle">
             <h2 className="resume">Resume</h2>
             <div className="viewer">
 

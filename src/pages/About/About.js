@@ -7,7 +7,7 @@ export default function About() {
     image: Headshot
   }
   return (
-    <div className='bodyStyle'>
+    <div className='bodyStyle aboutStyle'>
       <h1>About</h1>
       <img className='headShot' src={headShot.image} alt='head shot' />
       <p>

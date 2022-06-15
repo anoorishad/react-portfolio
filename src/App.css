@@ -8,13 +8,17 @@
 
 .headerStyle {
     background-color: #001F54;
-    margin: 0 auto
+    position: relative;
+    float: left;
+    width: 100%;
 }
 
 .bodyStyle {
     background-color: #034078;
-    padding-bottom: 1000px;
+    /* padding-bottom: 500px; */
     width: 100%;
+    position: relative;
+    float: left;
 }
 
 .headShot {

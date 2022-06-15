@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { validateEmail } from '../../utils/helpers';
+import './Contact.css'
 
 function Contact() {
   const [fullName, setFullName] = useState('');
@@ -41,7 +42,7 @@ function Contact() {
   };
 
   return (
-    <div className='contact bodyStyle' >
+    <div className='contact bodyStyle contactStyle' >
       <aside>
         <h3>Contact me</h3>
         <div className="line "></div>
@@ -49,7 +50,7 @@ function Contact() {
       </aside>
       <div >
 
-        <form className="form">
+        <form className="form contactForm">
           <div>
             <input
               value={fullName}

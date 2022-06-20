@@ -39,7 +39,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam, dicta. Tenetur minus fuga suscipit commodi facilis assumenda alias laboriosam iste deserunt architecto temporibus, fugit eum qui, perspiciatis optio odit dolorem.
+                    Full-stack web developer leveraging a background in IT, looking to balance functionality and design while optimizing the end-user experience. Recently earned a certificate in full-stack development from the University of Washington, with skills in JavaScript, CSS, React.js, and responsive web design. I approach every project analytically and am determined to produce results I take pride in. I’m excited to apply my skills in a fast-paced and adaptable team, driven to create unique web experiences.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>

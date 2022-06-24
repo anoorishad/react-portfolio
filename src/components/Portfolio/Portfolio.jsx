@@ -2,7 +2,7 @@ import React from 'react'
 import './Portfolio.css'
 import IMG1 from '../../assets/DreamTheme.png'
 import IMG2 from '../../assets/DreamTheme.png'
-import IMG3 from '../../assets/DreamTheme.png'
+import IMG3 from '../../assets/Socializer.png'
 import IMG4 from '../../assets/DreamTheme.png'
 import IMG5 from '../../assets/DreamTheme.png'
 import IMG6 from '../../assets/DreamTheme.png'
@@ -27,9 +27,9 @@ const data = [
     {
         id: 3,
         image: IMG3,
-        title: 'DreamTheme',
-        github: 'https://github.com',
-        demo: 'https://github.com'
+        title: 'Socializer',
+        github: 'https://github.com/anoorishad/Socializer',
+        demo: 'https://anoorishad.github.io/Socializer/'
     },
     {
         id: 4,
@@ -66,12 +66,13 @@ const Portfolio = () => {
                     data.map(({ id, image, title, github, demo }) => {
                         return (
                             <article key={id} className='portfolio__item'>
-                                <div className="portfolio__item-image"></div>
+                                <div className="portfolio__item-image">
                                 <img src={image} alt={title} />
+                                </div>
                                 <h3>{title}</h3>
                                 <div className="portfolio__item-cta">
                                     <a href={github} className='btn' target='_blank'>GitHub</a>
-                                    <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+                                    <a href={demo} className='btn btn-primary' target='_blank'>Deployed Link</a>
                                 </div>
                             </article>
                         )

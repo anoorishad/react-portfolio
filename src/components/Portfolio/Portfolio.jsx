@@ -1,6 +1,6 @@
 import React from 'react'
 import './Portfolio.css'
-import IMG1 from '../../assets/DreamTheme.png'
+import IMG1 from '../../assets/IYKYK.png'
 import IMG2 from '../../assets/DreamTheme.png'
 import IMG3 from '../../assets/Socializer.png'
 import IMG4 from '../../assets/DreamTheme.png'
@@ -13,16 +13,16 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'DreamTheme',
-        github: 'https://github.com',
-        demo: 'https://github.com'
+        title: 'IYKYK',
+        github: 'https://github.com/Jeff-T-Schmidt/IYKYK',
+        demo: 'http://iykyk-frontend.herokuapp.com/'
     },
     {
         id: 2,
         image: IMG2,
         title: 'DreamTheme',
-        github: 'https://github.com',
-        demo: 'https://github.com'
+        github: 'https://github.com/SFelbeck/DreamTheme',
+        demo: 'https://dreamtheme.herokuapp.com/login'
     },
     {
         id: 3,

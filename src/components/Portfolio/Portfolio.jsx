@@ -30,28 +30,7 @@ const data = [
         title: 'Socializer',
         github: 'https://github.com/anoorishad/Socializer',
         demo: 'https://anoorishad.github.io/Socializer/'
-    },
-    {
-        id: 4,
-        image: IMG4,
-        title: 'DreamTheme',
-        github: 'https://github.com',
-        demo: 'https://github.com'
-    },
-    {
-        id: 5,
-        image: IMG5,
-        title: 'DreamTheme',
-        github: 'https://github.com',
-        demo: 'https://github.com'
-    },
-    {
-        id: 6,
-        image: IMG6,
-        title: 'DreamTheme',
-        github: 'https://github.com',
-        demo: 'https://github.com'
-    },
+    }
 ]
 
 

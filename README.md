@@ -4,7 +4,7 @@
 
 ## Description
 
-A personal portfolio page showcasing the author's projects and contact methods to reach out as well as a resume viewer and downloader
+A personal portfolio page showcasing the author's projects and contact methods to reach out as well as a resume downloader.
 
 
 ## Deployed Link

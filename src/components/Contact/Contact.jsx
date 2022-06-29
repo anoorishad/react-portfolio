@@ -15,10 +15,10 @@ const Contact = () => {
         emailjs.sendForm('service_zreqcko', 'template_3uqueug', form.current, 'g4lYyVgdwOVKj9zAd')
             .then((result) => {
                 console.log(result.text);
+                alert("Your message has been sent and I will get back with you shortly, thank you!")
             }, (error) => {
                 console.log(error.text);
             });
-
             e.target.reset()
     };
 

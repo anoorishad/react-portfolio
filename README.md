@@ -53,3 +53,7 @@ Please reach out at:
 
 [anoorishad@me.com](mailto:anoorishad@me.com)
 
+## Acknowledgements
+
+Thank you EGATOR tutorials!
+

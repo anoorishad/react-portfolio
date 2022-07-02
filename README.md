@@ -9,7 +9,6 @@ A personal portfolio page showcasing the author's projects and contact methods t
 
 ## Deployed Link
 
-https://react-portfolio-aan.herokuapp.com/
 https://anoorishad.com
 
 

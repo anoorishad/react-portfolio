@@ -22,6 +22,7 @@ https://anoorishad.com
   - [Installation](#installation)
   - [License](#license)
   - [Questions](#questions)
+  - [Acknowledgements](#acknowledgements)
 
 
 
